@@ -1,0 +1,3 @@
+# Triple Threat VIP Play Builder V1
+Open index.html in a modern desktop browser, or upload it to a private hosting environment. No dependencies or build step. GitHub Pages can serve it, but does not provide private access by itself. Data is local to the browser and origin; use JSON backups before moving browsers or hosting. Do not commit personal backups. No D1 or production integration yet.
+Quick Add uses heuristic parsing; verify every extracted field. Grade VIP selections independently of actual wagers. Image exports exclude personal wagers. Drag rows or use arrows to rank. The probability tracker excludes missing values and pushes/voids from hit rate. The 80%+ row overlaps the individual buckets intentionally.
